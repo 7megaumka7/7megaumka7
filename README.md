@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [7megaumka7](https://github.com/7megaumka7)
 
-- 💬 Ask me about **OSINT techniques, steganography methods, or any other cybersecurity topics**
+- 💬 Ask me about **web applications, OSINT techniques, steganography methods, or any other cybersecurity topics**
 
 - 📫 How to reach me **[alisher_study@vk.com](mailto:alisher_study@vk.com)**
 
