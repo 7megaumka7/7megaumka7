@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Penetration Tester && CTF-Player from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/dj8W2Le2mzcAAAAC/nanachi-writing.gif">
 
-- 🔭 I’m currently working on **Dynamic Analysis(Reverse Engineering)**
+- 🔭 I’m currently working on **Web Applications penetration practice**
 
-- 🌱 I’m currently learning **Reverse Engineering,Steganography** 
+- 🌱 I’m currently learning **Web Allications (Client-Side)** 
 
 - 👯 I’m looking to collaborate on **Great IT Organisation**
 
