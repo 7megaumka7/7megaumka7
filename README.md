@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">A passionate Penetration Tester && CTF-Player from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/d_8tyShJNZgAAAAC/nanachi-anime.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/dj8W2Le2mzcAAAAC/nanachi-writing.gif">
 
 - 🔭 I’m currently working on **web applications penetration practice**
 
