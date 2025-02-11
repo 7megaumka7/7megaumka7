@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Penetration Tester && CTF-Player from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/dj8W2Le2mzcAAAAC/nanachi-writing.gif">
 
-- 🔭 I’m currently working on **web applications penetration practice**
+- 🔭 I’m currently working on **getting better at Advanced Active Directory**
 
-- 🌱 I’m currently learning **client-side web applications** 
+- 🌱 I’m currently learning **Deep infrastructure penetration tests** 
 
 - 👯 I’m looking to collaborate on **great IT Organization**
 
