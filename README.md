@@ -8,12 +8,12 @@
 
 - 👯 I’m looking to collaborate on **great IT Organization**
 
-- 🤝 I’m looking for help with **CTF skill development**
+- 🤝 I’m looking for help with **Enterprise Red Team Audit Performance**
 
 - 👨‍💻 All of my projects are available at [7megaumka7](https://github.com/7megaumka7)
 
-- 💬 Ask me about **web applications, OSINT techniques, steganography methods, or any other cybersecurity topics**
+- 💬 Ask me about **Active directory, Network Security, Web Applications or any other cybersecurity topics**
 
-- 📫 How to reach me **[alisher_study@vk.com](mailto:alisher_study@vk.com)**
+- 📫 How to reach me **[alisher.cybersec@gmail.com](mailto:alisher.cybersec@gmailcom)**
 
 - ⚡ Fun fact **I’m a regular member of the Debate club and the Volunteer club**
